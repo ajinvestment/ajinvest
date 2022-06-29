@@ -1,0 +1,2 @@
+# ajinvest
+investment site
